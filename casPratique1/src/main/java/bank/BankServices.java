@@ -9,7 +9,8 @@ import java.util.List;
 public class BankServices {
     Bank bank = new Bank();
 
-    public BankAccount getBankAccountById(int id) throws AccountNotFoundException {
+    public BankAccount getBankAccountById(int id) {
+
         List<BankAccount> list = bank.getBankAccountList();
         for (BankAccount bankAccount : list) {
             if (bankAccount.getId() == id) {
@@ -17,9 +18,10 @@ public class BankServices {
             }
         }
         throw new AccountNotFoundException("Le compte avec l'identifiant: " + id + " n'existe pas ou n'a pas été trouvé.");
+
     }
 
-    public BankAccount withdraw(BankAccount account, double amount) throws InsufficientAmountException {
+    public BankAccount withdraw(BankAccount account, double amount) {
         if (account.getBalance() >= amount) {
             double accountBalance = account.getBalance();
             account.setBalance(accountBalance -= amount);

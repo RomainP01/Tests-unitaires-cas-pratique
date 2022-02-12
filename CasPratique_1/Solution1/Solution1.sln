@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyBank", "EasyBank\EasyBank.csproj", "{78DF0CC3-E7DA-4BCA-92BB-858ECA9FDF89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestEasyBank", "TestEasyBank\TestEasyBank.csproj", "{EAE40223-6D6E-4474-9F18-76F08DEAC4A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78DF0CC3-E7DA-4BCA-92BB-858ECA9FDF89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78DF0CC3-E7DA-4BCA-92BB-858ECA9FDF89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78DF0CC3-E7DA-4BCA-92BB-858ECA9FDF89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78DF0CC3-E7DA-4BCA-92BB-858ECA9FDF89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAE40223-6D6E-4474-9F18-76F08DEAC4A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAE40223-6D6E-4474-9F18-76F08DEAC4A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAE40223-6D6E-4474-9F18-76F08DEAC4A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAE40223-6D6E-4474-9F18-76F08DEAC4A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

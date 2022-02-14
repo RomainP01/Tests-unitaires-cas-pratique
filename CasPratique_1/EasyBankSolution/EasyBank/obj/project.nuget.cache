@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "p0fyCbPQtIjJyce7KI2WS0+49fhoLbmGFpSahh2iJhocJBtTCmfDqVQTxfoGf2Pru8pitIxo4M2LpapmvQDLkA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Romain\\Desktop\\B3\\ATELIER TEST\\Tests-unitaires-cas-pratique\\CasPratique_1\\EasyBankSolution\\EasyBank\\EasyBank.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Romain\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\Romain\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\Romain\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\Romain\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\Romain\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\Romain\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\Romain\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

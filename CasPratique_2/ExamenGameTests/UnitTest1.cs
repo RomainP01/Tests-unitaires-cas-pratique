@@ -98,9 +98,30 @@ namespace ExamenGameTests
             //Arrange
             FournisseurMeteo meteo = new FournisseurMeteo();
 
-            //Assert 
+            //Act & Assert 
             meteo.QuelleEstLaMeteo().Should().BeOneOf(Jeu.Meteo.Pluie, Jeu.Meteo.Soleil, Jeu.Meteo.Tempete);
+        }
+        
+        [TestMethod]
+        public void Test_De_Lancer()
+        {
+            //Arrange
+            De de = new De();
 
+            //Act & Assert 
+            de.Lance().Should().BeInRange(1,6);
+        }
+        
+        [TestMethod]
+        public void Test_FauxDe_Lancer()
+        {
+            //Arrange
+            FauxDe de = new FauxDe();
+
+            //Act & Assert 
+            //4 and 5 are always the two first values of the false dices
+            de.Lance().Should().Be(4);
+            de.Lance().Should().Be(5);
         }
     }
 }

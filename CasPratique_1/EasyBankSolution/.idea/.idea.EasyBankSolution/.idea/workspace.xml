@@ -20,88 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0698790-6e66-48e8-8755-26cc9922e183" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Solution1/.idea/.idea.Solution1/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution1/.idea/.idea.Solution1/.idea/contentModel.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution1/.idea/.idea.Solution1/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution1/.idea/.idea.Solution1/.idea/indexLayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution1/.idea/.idea.Solution1/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution1/.idea/.idea.Solution1/.idea/projectSettingsUpdater.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution1/.idea/.idea.Solution1/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution1/.idea/.idea.Solution1/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution1/.idea/.idea.Solution1/riderModule.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution1/ClassLibrary1/obj/ClassLibrary1.csproj.nuget.dgspec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution1/ClassLibrary1/obj/ClassLibrary1.csproj.nuget.g.props" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution1/ClassLibrary1/obj/ClassLibrary1.csproj.nuget.g.targets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution1/ClassLibrary1/obj/project.assets.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution1/ClassLibrary1/obj/project.nuget.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution1/EasyBank/BankAccount.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution1/EasyBank/BankServices.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution1/EasyBank/EasyBank.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution1/EasyBank/bin/Debug/netcoreapp2.1/EasyBank.deps.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution1/EasyBank/bin/Debug/netcoreapp2.1/EasyBank.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution1/EasyBank/bin/Debug/netcoreapp2.1/EasyBank.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution1/EasyBank/obj/ClassLibrary1.csproj.nuget.dgspec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution1/EasyBank/obj/ClassLibrary1.csproj.nuget.g.props" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution1/EasyBank/obj/ClassLibrary1.csproj.nuget.g.targets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution1/EasyBank/obj/Debug/netcoreapp2.1/.NETCoreApp,Version=v2.1.AssemblyAttributes.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution1/EasyBank/obj/Debug/netcoreapp2.1/ClassLibrary1.AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution1/EasyBank/obj/Debug/netcoreapp2.1/ClassLibrary1.AssemblyInfoInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution1/EasyBank/obj/Debug/netcoreapp2.1/ClassLibrary1.assets.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution1/EasyBank/obj/Debug/netcoreapp2.1/ClassLibrary1.csprojAssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution1/EasyBank/obj/Debug/netcoreapp2.1/EasyBank.AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution1/EasyBank/obj/Debug/netcoreapp2.1/EasyBank.AssemblyInfoInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution1/EasyBank/obj/Debug/netcoreapp2.1/EasyBank.assets.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution1/EasyBank/obj/Debug/netcoreapp2.1/EasyBank.csproj.CoreCompileInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution1/EasyBank/obj/Debug/netcoreapp2.1/EasyBank.csproj.FileListAbsolute.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution1/EasyBank/obj/Debug/netcoreapp2.1/EasyBank.csprojAssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution1/EasyBank/obj/Debug/netcoreapp2.1/EasyBank.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution1/EasyBank/obj/Debug/netcoreapp2.1/EasyBank.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution1/EasyBank/obj/EasyBank.csproj.nuget.dgspec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution1/EasyBank/obj/EasyBank.csproj.nuget.g.props" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution1/EasyBank/obj/EasyBank.csproj.nuget.g.targets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution1/EasyBank/obj/project.assets.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution1/EasyBank/obj/project.nuget.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution1/EasyBank/obj/project.packagespec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution1/EasyBank/obj/rider.project.restore.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution1/Solution1.sln" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution1/Solution1.sln.DotSettings.user" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution1/TestEasyBank/TestEasyBank.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution1/TestEasyBank/UnitTest1.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution1/TestEasyBank/bin/Debug/netcoreapp2.1/EasyBank.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution1/TestEasyBank/bin/Debug/netcoreapp2.1/EasyBank.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution1/TestEasyBank/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution1/TestEasyBank/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution1/TestEasyBank/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution1/TestEasyBank/bin/Debug/netcoreapp2.1/TestEasyBank.deps.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution1/TestEasyBank/bin/Debug/netcoreapp2.1/TestEasyBank.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution1/TestEasyBank/bin/Debug/netcoreapp2.1/TestEasyBank.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution1/TestEasyBank/bin/Debug/netcoreapp2.1/TestEasyBank.runtimeconfig.dev.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution1/TestEasyBank/bin/Debug/netcoreapp2.1/TestEasyBank.runtimeconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution1/TestEasyBank/obj/Debug/netcoreapp2.1/.NETCoreApp,Version=v2.1.AssemblyAttributes.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution1/TestEasyBank/obj/Debug/netcoreapp2.1/TestEasyBank.AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution1/TestEasyBank/obj/Debug/netcoreapp2.1/TestEasyBank.AssemblyInfoInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution1/TestEasyBank/obj/Debug/netcoreapp2.1/TestEasyBank.assets.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution1/TestEasyBank/obj/Debug/netcoreapp2.1/TestEasyBank.csproj.CopyComplete" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution1/TestEasyBank/obj/Debug/netcoreapp2.1/TestEasyBank.csproj.CoreCompileInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution1/TestEasyBank/obj/Debug/netcoreapp2.1/TestEasyBank.csproj.FileListAbsolute.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution1/TestEasyBank/obj/Debug/netcoreapp2.1/TestEasyBank.csprojAssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution1/TestEasyBank/obj/Debug/netcoreapp2.1/TestEasyBank.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution1/TestEasyBank/obj/Debug/netcoreapp2.1/TestEasyBank.genruntimeconfig.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution1/TestEasyBank/obj/Debug/netcoreapp2.1/TestEasyBank.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution1/TestEasyBank/obj/Debug/netcoreapp2.1/TestProject1.AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution1/TestEasyBank/obj/Debug/netcoreapp2.1/TestProject1.AssemblyInfoInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution1/TestEasyBank/obj/Debug/netcoreapp2.1/TestProject1.assets.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution1/TestEasyBank/obj/Debug/netcoreapp2.1/TestProject1.csprojAssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution1/TestEasyBank/obj/TestEasyBank.csproj.nuget.dgspec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution1/TestEasyBank/obj/TestEasyBank.csproj.nuget.g.props" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution1/TestEasyBank/obj/TestEasyBank.csproj.nuget.g.targets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution1/TestEasyBank/obj/TestProject1.csproj.nuget.dgspec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution1/TestEasyBank/obj/TestProject1.csproj.nuget.g.props" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution1/TestEasyBank/obj/TestProject1.csproj.nuget.g.targets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution1/TestEasyBank/obj/project.assets.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution1/TestEasyBank/obj/project.nuget.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution1/TestEasyBank/obj/project.packagespec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution1/TestEasyBank/obj/rider.project.restore.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CasPratique_2/.idea/.idea.CasPratique_2.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../CasPratique_2/.idea/.idea.CasPratique_2.dir/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,6 +75,7 @@
       <workItem from="1644832907332" duration="7000" />
       <workItem from="1644835269745" duration="1308000" />
       <workItem from="1644837448760" duration="50000" />
+      <workItem from="1644842189905" duration="181000" />
     </task>
     <task id="LOCAL-00001" summary="cas pratique 1 c#">
       <created>1644678667708</created>
@@ -174,7 +94,7 @@
     <option name="coveragePercentColumnWidth" value="150" />
     <option name="sortOrder" value="DESCENDING" />
     <option name="sortedColumn" value="1" />
-    <option name="symbolColumnWidth" value="421" />
+    <option name="symbolColumnWidth" value="585" />
     <coverage-tree-state>
       <expand>
         <path>

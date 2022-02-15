@@ -1,0 +1,12 @@
+C:\Users\Romain\Desktop\B3\ATELIER TEST\Tests-unitaires-cas-pratique\CasPratique_3\SoloPoly\SoloPoly\bin\Debug\netcoreapp2.1\SoloPoly.deps.json
+C:\Users\Romain\Desktop\B3\ATELIER TEST\Tests-unitaires-cas-pratique\CasPratique_3\SoloPoly\SoloPoly\bin\Debug\netcoreapp2.1\SoloPoly.runtimeconfig.json
+C:\Users\Romain\Desktop\B3\ATELIER TEST\Tests-unitaires-cas-pratique\CasPratique_3\SoloPoly\SoloPoly\bin\Debug\netcoreapp2.1\SoloPoly.runtimeconfig.dev.json
+C:\Users\Romain\Desktop\B3\ATELIER TEST\Tests-unitaires-cas-pratique\CasPratique_3\SoloPoly\SoloPoly\bin\Debug\netcoreapp2.1\SoloPoly.dll
+C:\Users\Romain\Desktop\B3\ATELIER TEST\Tests-unitaires-cas-pratique\CasPratique_3\SoloPoly\SoloPoly\bin\Debug\netcoreapp2.1\SoloPoly.pdb
+C:\Users\Romain\Desktop\B3\ATELIER TEST\Tests-unitaires-cas-pratique\CasPratique_3\SoloPoly\SoloPoly\obj\Debug\netcoreapp2.1\SoloPoly.csprojAssemblyReference.cache
+C:\Users\Romain\Desktop\B3\ATELIER TEST\Tests-unitaires-cas-pratique\CasPratique_3\SoloPoly\SoloPoly\obj\Debug\netcoreapp2.1\SoloPoly.AssemblyInfoInputs.cache
+C:\Users\Romain\Desktop\B3\ATELIER TEST\Tests-unitaires-cas-pratique\CasPratique_3\SoloPoly\SoloPoly\obj\Debug\netcoreapp2.1\SoloPoly.AssemblyInfo.cs
+C:\Users\Romain\Desktop\B3\ATELIER TEST\Tests-unitaires-cas-pratique\CasPratique_3\SoloPoly\SoloPoly\obj\Debug\netcoreapp2.1\SoloPoly.csproj.CoreCompileInputs.cache
+C:\Users\Romain\Desktop\B3\ATELIER TEST\Tests-unitaires-cas-pratique\CasPratique_3\SoloPoly\SoloPoly\obj\Debug\netcoreapp2.1\SoloPoly.dll
+C:\Users\Romain\Desktop\B3\ATELIER TEST\Tests-unitaires-cas-pratique\CasPratique_3\SoloPoly\SoloPoly\obj\Debug\netcoreapp2.1\SoloPoly.pdb
+C:\Users\Romain\Desktop\B3\ATELIER TEST\Tests-unitaires-cas-pratique\CasPratique_3\SoloPoly\SoloPoly\obj\Debug\netcoreapp2.1\SoloPoly.genruntimeconfig.cache

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoloPoly", "SoloPoly\SoloPoly.csproj", "{8CF44D62-952D-46D4-90F6-9A8E18EA586C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoloPolyTest", "SoloPolyTest\SoloPolyTest.csproj", "{D2490331-CCCB-4C4F-B9A7-D021E9C1AC27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CF44D62-952D-46D4-90F6-9A8E18EA586C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CF44D62-952D-46D4-90F6-9A8E18EA586C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CF44D62-952D-46D4-90F6-9A8E18EA586C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CF44D62-952D-46D4-90F6-9A8E18EA586C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2490331-CCCB-4C4F-B9A7-D021E9C1AC27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2490331-CCCB-4C4F-B9A7-D021E9C1AC27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2490331-CCCB-4C4F-B9A7-D021E9C1AC27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2490331-CCCB-4C4F-B9A7-D021E9C1AC27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

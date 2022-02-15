@@ -23,16 +23,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4717cc66-2067-4bf3-84c2-b713edbadd63" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../CasPratique_1/EasyBankSolution/.idea/.idea.EasyBankSolution/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CasPratique_1/EasyBankSolution/.idea/.idea.EasyBankSolution/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CasPratique_3/SoloPoly/SoloPoly/Dice.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CasPratique_3/SoloPoly/SoloPoly/GameManager.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CasPratique_3/SoloPoly/SoloPoly/Player.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CasPratique_1/EasyBankSolution/.idea/.idea.EasyBankSolution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CasPratique_1/EasyBankSolution/.idea/.idea.EasyBankSolution/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CasPratique_1/EasyBankSolution/.idea/.idea.EasyBankSolution/riderModule.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../CasPratique_1/EasyBankSolution/.idea/.idea.EasyBankSolution/riderModule.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CasPratique_2.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CasPratique_2.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExamenGameTests/UnitTest1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ExamenGameTests/UnitTest1.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExamenGameTests/bin/Debug/netcoreapp3.1/ExamenGameTests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ExamenGameTests/bin/Debug/netcoreapp3.1/ExamenGameTests.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExamenGameTests/bin/Debug/netcoreapp3.1/ExamenGameTests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ExamenGameTests/bin/Debug/netcoreapp3.1/ExamenGameTests.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExamenGameTests/obj/Debug/netcoreapp3.1/ExamenGameTests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ExamenGameTests/obj/Debug/netcoreapp3.1/ExamenGameTests.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExamenGameTests/obj/Debug/netcoreapp3.1/ExamenGameTests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ExamenGameTests/obj/Debug/netcoreapp3.1/ExamenGameTests.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Folder.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/Folder.DotSettings.user" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +90,7 @@
       <workItem from="1644842377826" duration="448000" />
       <workItem from="1644850373919" duration="2609000" />
       <workItem from="1644917139514" duration="169000" />
-      <workItem from="1644917460060" duration="4387000" />
+      <workItem from="1644917460060" duration="6858000" />
     </task>
     <servers />
   </component>

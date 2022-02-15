@@ -1,5 +1,10 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b8738322_002Dbd3a_002D4916_002Da114_002D96aefcb2b889/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Test_WithMOQ_WithADiceValueLessThanTheSecondOne_StormMode_ReturnLostAndReduceHeroHPBy2TimesTheDifferenceBetweenTheTwoDices" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6974fe69_002Dbc4d_002D43ca_002D95ac_002D29ccabfbabb4/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Test_Ecrire" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::4B74B5F2-9C3E-C179-61FC-FFB4E309E610::.NETCoreApp,Version=v3.1::ExamenGameTests.UnitTest1&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b8738322_002Dbd3a_002D4916_002Da114_002D96aefcb2b889/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test_WithMOQ_WithADiceValueLessThanTheSecondOne_StormMode_ReturnLostAndReduceHeroHPBy2TimesTheDifferenceBetweenTheTwoDices" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;MSTest::4B74B5F2-9C3E-C179-61FC-FFB4E309E610::.NETCoreApp,Version=v3.1::ExamenGameTests.UnitTest1&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;

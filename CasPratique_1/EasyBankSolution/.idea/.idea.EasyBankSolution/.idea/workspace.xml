@@ -20,7 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0698790-6e66-48e8-8755-26cc9922e183" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.EasyBankSolution/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.EasyBankSolution/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.EasyBankSolution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.EasyBankSolution/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.EasyBankSolution/riderModule.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.EasyBankSolution/riderModule.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../CasPratique_2/.idea/.idea.CasPratique_2.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../CasPratique_2/.idea/.idea.CasPratique_2.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CasPratique_2/ExamenGameTests/UnitTest1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../CasPratique_2/ExamenGameTests/UnitTest1.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CasPratique_2/ExamenGameTests/bin/Debug/netcoreapp3.1/ExamenGameTests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../CasPratique_2/ExamenGameTests/bin/Debug/netcoreapp3.1/ExamenGameTests.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CasPratique_2/ExamenGameTests/bin/Debug/netcoreapp3.1/ExamenGameTests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../CasPratique_2/ExamenGameTests/bin/Debug/netcoreapp3.1/ExamenGameTests.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CasPratique_2/ExamenGameTests/obj/Debug/netcoreapp3.1/ExamenGameTests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../CasPratique_2/ExamenGameTests/obj/Debug/netcoreapp3.1/ExamenGameTests.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CasPratique_2/ExamenGameTests/obj/Debug/netcoreapp3.1/ExamenGameTests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../CasPratique_2/ExamenGameTests/obj/Debug/netcoreapp3.1/ExamenGameTests.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CasPratique_2/Folder.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/../../CasPratique_2/Folder.DotSettings.user" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +85,8 @@
       <workItem from="1644835269745" duration="1308000" />
       <workItem from="1644837448760" duration="50000" />
       <workItem from="1644842189905" duration="181000" />
+      <workItem from="1644917315303" duration="138000" />
+      <workItem from="1644919342798" duration="668000" />
     </task>
     <task id="LOCAL-00001" summary="cas pratique 1 c#">
       <created>1644678667708</created>
@@ -94,7 +105,7 @@
     <option name="coveragePercentColumnWidth" value="150" />
     <option name="sortOrder" value="DESCENDING" />
     <option name="sortedColumn" value="1" />
-    <option name="symbolColumnWidth" value="585" />
+    <option name="symbolColumnWidth" value="667" />
     <coverage-tree-state>
       <expand>
         <path>

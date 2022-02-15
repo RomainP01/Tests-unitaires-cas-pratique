@@ -23,13 +23,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4717cc66-2067-4bf3-84c2-b713edbadd63" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../CasPratique_1/EasyBankSolution/.idea/.idea.EasyBankSolution/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CasPratique_1/EasyBankSolution/.idea/.idea.EasyBankSolution/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CasPratique_1/EasyBankSolution/.idea/.idea.EasyBankSolution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CasPratique_1/EasyBankSolution/.idea/.idea.EasyBankSolution/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CasPratique_1/EasyBankSolution/.idea/.idea.EasyBankSolution/riderModule.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../CasPratique_1/EasyBankSolution/.idea/.idea.EasyBankSolution/riderModule.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CasPratique_2.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CasPratique_2.dir/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ExamenGameTests/UnitTest1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ExamenGameTests/UnitTest1.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ExamenGameTests/bin/Debug/netcoreapp3.1/ExamenGameTests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ExamenGameTests/bin/Debug/netcoreapp3.1/ExamenGameTests.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ExamenGameTests/bin/Debug/netcoreapp3.1/ExamenGameTests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ExamenGameTests/bin/Debug/netcoreapp3.1/ExamenGameTests.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ExamenGameTests/obj/Debug/netcoreapp3.1/ExamenGameTests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ExamenGameTests/obj/Debug/netcoreapp3.1/ExamenGameTests.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ExamenGameTests/obj/Debug/netcoreapp3.1/ExamenGameTests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ExamenGameTests/obj/Debug/netcoreapp3.1/ExamenGameTests.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Folder.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/Folder.DotSettings.user" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +93,9 @@
       <workItem from="1644836594067" duration="1362000" />
       <workItem from="1644842167989" duration="14000" />
       <workItem from="1644842377826" duration="448000" />
-      <workItem from="1644850373919" duration="2608000" />
+      <workItem from="1644850373919" duration="2609000" />
+      <workItem from="1644917139514" duration="169000" />
+      <workItem from="1644917460060" duration="4387000" />
     </task>
     <servers />
   </component>
@@ -101,30 +106,23 @@
     <option name="coveragePercentColumnWidth" value="150" />
     <option name="sortOrder" value="DESCENDING" />
     <option name="sortedColumn" value="1" />
-    <option name="symbolColumnWidth" value="276" />
+    <option name="symbolColumnWidth" value="308" />
     <coverage-tree-state>
       <expand>
         <path>
           <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
-          <item name="Total 77% 33/141" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="Total 83% 27/159" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
         </path>
         <path>
           <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
-          <item name="Total 77% 33/141" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
-          <item name="ExamenGame 65% 33/94" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="Total 83% 27/159" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="ExamenGame 71% 27/94" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
         </path>
         <path>
           <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
-          <item name="Total 77% 33/141" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
-          <item name="ExamenGame 65% 33/94" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
-          <item name="ExamenGame 65% 33/94" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
-        </path>
-        <path>
-          <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
-          <item name="Total 77% 33/141" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
-          <item name="ExamenGame 65% 33/94" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
-          <item name="ExamenGame 65% 33/94" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
-          <item name="FournisseurMeteo 75% 3/12" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="Total 83% 27/159" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="ExamenGame 71% 27/94" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="ExamenGame 71% 27/94" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
         </path>
       </expand>
       <select />

@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 using ExamenGame;
 using FluentAssertions;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
@@ -101,7 +102,7 @@ namespace ExamenGameTests
             //Act & Assert 
             meteo.QuelleEstLaMeteo().Should().BeOneOf(Jeu.Meteo.Pluie, Jeu.Meteo.Soleil, Jeu.Meteo.Tempete);
         }
-        
+
         [TestMethod]
         public void Test_De_Lancer()
         {
@@ -123,5 +124,41 @@ namespace ExamenGameTests
             de.Lance().Should().Be(4);
             de.Lance().Should().Be(5);
         }
+
+        [TestMethod]
+        public void Test_Ecrire()
+        {
+            //Arrange 
+            var message = "Je suis un message";
+            ConsoleDeSortie consoleDeSortie = new ConsoleDeSortie();
+            var stringWriter = new StringWriter();
+            Console.SetOut(stringWriter);
+            
+            //Act
+            consoleDeSortie.Ecrire(message);
+            
+            //Assert
+            var output = stringWriter.ToString();
+            Assert.AreEqual("Je suis un message", output.Trim());
+        }
+        
+        [TestMethod]
+        public void Test_EcrireLigne()
+        {
+            //Arrange 
+            var message = "Je suis un message";
+            ConsoleDeSortie consoleDeSortie = new ConsoleDeSortie();
+            var stringWriter = new StringWriter();
+            Console.SetOut(stringWriter);
+            
+            //Act
+            consoleDeSortie.EcrireLigne(message);
+            
+            //Assert
+            var output = stringWriter.ToString();
+            Assert.AreEqual("Je suis un message", output.Trim());
+        }
+        
+        
     }
 }

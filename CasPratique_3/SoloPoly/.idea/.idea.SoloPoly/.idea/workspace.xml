@@ -23,11 +23,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e2b7c474-44f0-4be5-ab8a-2a4a00cb2c93" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/SoloPoly/Dice.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoloPoly/GameManager.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoloPoly/Player.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../CasPratique_1/EasyBankSolution/.idea/.idea.EasyBankSolution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../CasPratique_1/EasyBankSolution/.idea/.idea.EasyBankSolution/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../CasPratique_2/.idea/.idea.CasPratique_2.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../CasPratique_2/.idea/.idea.CasPratique_2.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SoloPoly/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SoloPoly/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoloPoly.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/SoloPoly.sln.DotSettings.user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoloPoly/bin/Debug/netcoreapp2.1/SoloPoly.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/SoloPoly/bin/Debug/netcoreapp2.1/SoloPoly.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoloPoly/bin/Debug/netcoreapp2.1/SoloPoly.dll" beforeDir="false" afterPath="$PROJECT_DIR$/SoloPoly/bin/Debug/netcoreapp2.1/SoloPoly.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoloPoly/bin/Debug/netcoreapp2.1/SoloPoly.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/SoloPoly/bin/Debug/netcoreapp2.1/SoloPoly.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoloPoly/obj/Debug/netcoreapp2.1/SoloPoly.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SoloPoly/obj/Debug/netcoreapp2.1/SoloPoly.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoloPoly/obj/Debug/netcoreapp2.1/SoloPoly.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SoloPoly/obj/Debug/netcoreapp2.1/SoloPoly.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoloPoly/obj/Debug/netcoreapp2.1/SoloPoly.dll" beforeDir="false" afterPath="$PROJECT_DIR$/SoloPoly/obj/Debug/netcoreapp2.1/SoloPoly.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoloPoly/obj/Debug/netcoreapp2.1/SoloPoly.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/SoloPoly/obj/Debug/netcoreapp2.1/SoloPoly.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoloPolyTest/UnitTest1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SoloPolyTest/UnitTest1.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoloPolyTest/bin/Debug/netcoreapp2.1/SoloPoly.dll" beforeDir="false" afterPath="$PROJECT_DIR$/SoloPolyTest/bin/Debug/netcoreapp2.1/SoloPoly.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoloPolyTest/bin/Debug/netcoreapp2.1/SoloPoly.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/SoloPolyTest/bin/Debug/netcoreapp2.1/SoloPoly.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoloPolyTest/bin/Debug/netcoreapp2.1/SoloPolyTest.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/SoloPolyTest/bin/Debug/netcoreapp2.1/SoloPolyTest.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoloPolyTest/bin/Debug/netcoreapp2.1/SoloPolyTest.dll" beforeDir="false" afterPath="$PROJECT_DIR$/SoloPolyTest/bin/Debug/netcoreapp2.1/SoloPolyTest.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoloPolyTest/bin/Debug/netcoreapp2.1/SoloPolyTest.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/SoloPolyTest/bin/Debug/netcoreapp2.1/SoloPolyTest.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoloPolyTest/obj/Debug/netcoreapp2.1/SoloPolyTest.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SoloPolyTest/obj/Debug/netcoreapp2.1/SoloPolyTest.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoloPolyTest/obj/Debug/netcoreapp2.1/SoloPolyTest.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SoloPolyTest/obj/Debug/netcoreapp2.1/SoloPolyTest.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoloPolyTest/obj/Debug/netcoreapp2.1/SoloPolyTest.dll" beforeDir="false" afterPath="$PROJECT_DIR$/SoloPolyTest/obj/Debug/netcoreapp2.1/SoloPolyTest.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoloPolyTest/obj/Debug/netcoreapp2.1/SoloPolyTest.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/SoloPolyTest/obj/Debug/netcoreapp2.1/SoloPolyTest.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,6 +109,7 @@
       <option name="presentableId" value="Default" />
       <updated>1644924175513</updated>
       <workItem from="1644924194707" duration="5910000" />
+      <workItem from="1645008133117" duration="2967000" />
     </task>
     <servers />
   </component>
@@ -103,43 +120,36 @@
     <option name="coveragePercentColumnWidth" value="150" />
     <option name="sortOrder" value="DESCENDING" />
     <option name="sortedColumn" value="1" />
-    <option name="symbolColumnWidth" value="170" />
+    <option name="symbolColumnWidth" value="288" />
     <coverage-tree-state>
       <expand>
         <path>
           <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
-          <item name="Total 65% 6/17" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="Total 90% 7/68" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
         </path>
         <path>
           <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
-          <item name="Total 65% 6/17" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
-          <item name="SoloPoly 54% 6/13" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="Total 90% 7/68" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="SoloPoly 79% 6/29" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
         </path>
         <path>
           <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
-          <item name="Total 65% 6/17" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
-          <item name="SoloPoly 54% 6/13" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
-          <item name="SoloPoly 54% 6/13" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="Total 90% 7/68" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="SoloPoly 79% 6/29" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="SoloPoly 79% 6/29" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
         </path>
         <path>
           <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
-          <item name="Total 65% 6/17" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
-          <item name="SoloPoly 54% 6/13" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
-          <item name="SoloPoly 54% 6/13" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
-          <item name="De 100% 0/7" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
-        </path>
-        <path>
-          <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
-          <item name="Total 65% 6/17" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
-          <item name="SoloPoly 54% 6/13" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
-          <item name="SoloPoly 54% 6/13" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
-          <item name="GameManager 0% 2/2" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="Total 90% 7/68" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="SoloPoly 79% 6/29" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="SoloPoly 79% 6/29" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="GameManager 87% 2/15" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
         </path>
       </expand>
       <select />
     </coverage-tree-state>
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -151,6 +161,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />

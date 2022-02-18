@@ -6,8 +6,8 @@ namespace SoloPoly
     {
         static void Main(string[] args)
         {
-            Dice dice = new Dice();
-            Console.WriteLine(dice.Roll());
+            IHM ihm = new IHM(new OutputConsole() , new GameManager(), new Dice());
+            ihm.Start();
         }
     }
 }

@@ -23,27 +23,45 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e2b7c474-44f0-4be5-ab8a-2a4a00cb2c93" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/SoloPoly/IHM.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoloPoly/IOutputConsole.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../CasPratique_1/EasyBankSolution/.idea/.idea.EasyBankSolution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../CasPratique_1/EasyBankSolution/.idea/.idea.EasyBankSolution/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../CasPratique_2/.idea/.idea.CasPratique_2.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../CasPratique_2/.idea/.idea.CasPratique_2.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SoloPoly/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SoloPoly/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SoloPoly/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SoloPoly/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SoloPoly.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/SoloPoly.sln.DotSettings.user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoloPoly/Dice.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SoloPoly/IDice.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoloPoly/GameManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SoloPoly/IGameManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoloPoly/Player.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SoloPoly/Player.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoloPoly/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SoloPoly/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoloPoly/SoloPoly.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/SoloPoly/SoloPoly.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SoloPoly/bin/Debug/netcoreapp2.1/SoloPoly.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/SoloPoly/bin/Debug/netcoreapp2.1/SoloPoly.deps.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SoloPoly/bin/Debug/netcoreapp2.1/SoloPoly.dll" beforeDir="false" afterPath="$PROJECT_DIR$/SoloPoly/bin/Debug/netcoreapp2.1/SoloPoly.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SoloPoly/bin/Debug/netcoreapp2.1/SoloPoly.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/SoloPoly/bin/Debug/netcoreapp2.1/SoloPoly.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoloPoly/obj/Debug/netcoreapp2.1/SoloPoly.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SoloPoly/obj/Debug/netcoreapp2.1/SoloPoly.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SoloPoly/obj/Debug/netcoreapp2.1/SoloPoly.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SoloPoly/obj/Debug/netcoreapp2.1/SoloPoly.csproj.CoreCompileInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SoloPoly/obj/Debug/netcoreapp2.1/SoloPoly.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SoloPoly/obj/Debug/netcoreapp2.1/SoloPoly.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SoloPoly/obj/Debug/netcoreapp2.1/SoloPoly.dll" beforeDir="false" afterPath="$PROJECT_DIR$/SoloPoly/obj/Debug/netcoreapp2.1/SoloPoly.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SoloPoly/obj/Debug/netcoreapp2.1/SoloPoly.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/SoloPoly/obj/Debug/netcoreapp2.1/SoloPoly.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoloPoly/obj/SoloPoly.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/SoloPoly/obj/SoloPoly.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoloPoly/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/SoloPoly/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoloPoly/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SoloPoly/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoloPoly/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/SoloPoly/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoloPoly/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/SoloPoly/obj/rider.project.restore.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SoloPolyTest/UnitTest1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SoloPolyTest/UnitTest1.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SoloPolyTest/bin/Debug/netcoreapp2.1/SoloPoly.dll" beforeDir="false" afterPath="$PROJECT_DIR$/SoloPolyTest/bin/Debug/netcoreapp2.1/SoloPoly.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SoloPolyTest/bin/Debug/netcoreapp2.1/SoloPoly.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/SoloPolyTest/bin/Debug/netcoreapp2.1/SoloPoly.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SoloPolyTest/bin/Debug/netcoreapp2.1/SoloPolyTest.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/SoloPolyTest/bin/Debug/netcoreapp2.1/SoloPolyTest.deps.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SoloPolyTest/bin/Debug/netcoreapp2.1/SoloPolyTest.dll" beforeDir="false" afterPath="$PROJECT_DIR$/SoloPolyTest/bin/Debug/netcoreapp2.1/SoloPolyTest.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SoloPolyTest/bin/Debug/netcoreapp2.1/SoloPolyTest.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/SoloPolyTest/bin/Debug/netcoreapp2.1/SoloPolyTest.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoloPolyTest/obj/Debug/netcoreapp2.1/SoloPolyTest.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SoloPolyTest/obj/Debug/netcoreapp2.1/SoloPolyTest.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SoloPolyTest/obj/Debug/netcoreapp2.1/SoloPolyTest.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SoloPolyTest/obj/Debug/netcoreapp2.1/SoloPolyTest.csproj.CoreCompileInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SoloPolyTest/obj/Debug/netcoreapp2.1/SoloPolyTest.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SoloPolyTest/obj/Debug/netcoreapp2.1/SoloPolyTest.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SoloPolyTest/obj/Debug/netcoreapp2.1/SoloPolyTest.dll" beforeDir="false" afterPath="$PROJECT_DIR$/SoloPolyTest/obj/Debug/netcoreapp2.1/SoloPolyTest.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SoloPolyTest/obj/Debug/netcoreapp2.1/SoloPolyTest.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/SoloPolyTest/obj/Debug/netcoreapp2.1/SoloPolyTest.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoloPolyTest/obj/SoloPolyTest.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/SoloPolyTest/obj/SoloPolyTest.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoloPolyTest/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/SoloPolyTest/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoloPolyTest/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SoloPolyTest/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoloPolyTest/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/SoloPolyTest/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,9 +75,12 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/SoloPoly/De.cs" />
-        <option value="$PROJECT_DIR$/SoloPoly/Player.cs" />
         <option value="$PROJECT_DIR$/SoloPoly/GameManager.cs" />
         <option value="$PROJECT_DIR$/SoloPoly/Dice.cs" />
+        <option value="$PROJECT_DIR$/SoloPoly/IGameManager.cs" />
+        <option value="$PROJECT_DIR$/SoloPoly/Player.cs" />
+        <option value="$PROJECT_DIR$/SoloPoly/IOutputConsole.cs" />
+        <option value="$PROJECT_DIR$/SoloPoly/IHM.cs" />
         <option value="$PROJECT_DIR$/SoloPoly/Program.cs" />
         <option value="$PROJECT_DIR$/SoloPolyTest/UnitTest1.cs" />
       </list>
@@ -78,6 +99,7 @@
     <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.3002736" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected=".NET Project.SoloPoly">
@@ -109,7 +131,9 @@
       <option name="presentableId" value="Default" />
       <updated>1644924175513</updated>
       <workItem from="1644924194707" duration="5910000" />
-      <workItem from="1645008133117" duration="2967000" />
+      <workItem from="1645008133117" duration="3256000" />
+      <workItem from="1645172123698" duration="597000" />
+      <workItem from="1645179129615" duration="4791000" />
     </task>
     <servers />
   </component>
@@ -117,33 +141,26 @@
     <option name="version" value="3" />
   </component>
   <component name="UnitTestsCoverage.Settings">
-    <option name="coveragePercentColumnWidth" value="150" />
+    <option name="coveragePercentColumnWidth" value="137" />
     <option name="sortOrder" value="DESCENDING" />
     <option name="sortedColumn" value="1" />
-    <option name="symbolColumnWidth" value="288" />
+    <option name="symbolColumnWidth" value="322" />
     <coverage-tree-state>
       <expand>
         <path>
           <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
-          <item name="Total 90% 7/68" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="Total 71% 37/127" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
         </path>
         <path>
           <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
-          <item name="Total 90% 7/68" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
-          <item name="SoloPoly 79% 6/29" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="Total 71% 37/127" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="SoloPoly 51% 36/73" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
         </path>
         <path>
           <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
-          <item name="Total 90% 7/68" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
-          <item name="SoloPoly 79% 6/29" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
-          <item name="SoloPoly 79% 6/29" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
-        </path>
-        <path>
-          <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
-          <item name="Total 90% 7/68" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
-          <item name="SoloPoly 79% 6/29" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
-          <item name="SoloPoly 79% 6/29" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
-          <item name="GameManager 87% 2/15" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="Total 71% 37/127" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="SoloPoly 51% 36/73" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="SoloPoly 51% 36/73" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
         </path>
       </expand>
       <select />
@@ -167,21 +184,25 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1493" height="288" key="GridCell.Tab.0.bottom" timestamp="1644937055019">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1877" height="356" key="GridCell.Tab.0.bottom" timestamp="1645182428947">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="356" key="GridCell.Tab.0.bottom/-1920.270.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1645182428947" />
     <state width="1493" height="288" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1644937055019" />
-    <state width="1493" height="288" key="GridCell.Tab.0.center" timestamp="1644937055019">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1877" height="356" key="GridCell.Tab.0.center" timestamp="1645182428947">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="356" key="GridCell.Tab.0.center/-1920.270.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1645182428947" />
     <state width="1493" height="288" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1644937055019" />
-    <state width="1493" height="288" key="GridCell.Tab.0.left" timestamp="1644937055018">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1877" height="356" key="GridCell.Tab.0.left" timestamp="1645182428947">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="356" key="GridCell.Tab.0.left/-1920.270.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1645182428947" />
     <state width="1493" height="288" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1644937055018" />
-    <state width="1493" height="288" key="GridCell.Tab.0.right" timestamp="1644937055019">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1877" height="356" key="GridCell.Tab.0.right" timestamp="1645182428947">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="356" key="GridCell.Tab.0.right/-1920.270.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1645182428947" />
     <state width="1493" height="288" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1644937055019" />
     <state width="1493" height="288" key="GridCell.Tab.1.bottom" timestamp="1644937055019">
       <screen x="0" y="0" width="1536" height="824" />
@@ -251,5 +272,13 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="144" key="Rider.ProjectTemplateDialog.Size/0.0.1536.824@0.0.1536.824" timestamp="1644930988256" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1645181303660">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/-1920.270.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1645181303660" />
+    <state x="92" y="92" width="1736" height="856" key="VCS.FileHistoryDialog" timestamp="1645179769818">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="VCS.FileHistoryDialog/-1920.270.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1645179769818" />
   </component>
 </project>

@@ -1,3 +1,5 @@
+using System;
+using System.IO;
 using System.Linq;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Moq;
@@ -26,7 +28,7 @@ namespace SoloPolyTest
         {
             //Arrange
             GameManager gameManager = new GameManager();
-            Player player = new Player();
+            Player player = new Player("Joueur 1");
 
             //Act
             gameManager.RollConsequences(player, 1);
@@ -42,7 +44,7 @@ namespace SoloPolyTest
         {
             //Arrange
             GameManager gameManager = new GameManager();
-            Player player = new Player();
+            Player player = new Player("Joueur 1");
 
             //Act
             gameManager.RollConsequences(player, 2);
@@ -58,7 +60,7 @@ namespace SoloPolyTest
         {
             //Arrange
             GameManager gameManager = new GameManager();
-            Player player = new Player();
+            Player player = new Player("Joueur 1");
 
             //Act
             gameManager.RollConsequences(player, 3);
@@ -74,7 +76,7 @@ namespace SoloPolyTest
         {
             //Arrange
             GameManager gameManager = new GameManager();
-            Player player = new Player();
+            Player player = new Player("Joueur 1");
 
             //Act
             gameManager.RollConsequences(player, 4);
@@ -85,12 +87,28 @@ namespace SoloPolyTest
         [TestMethod]
         [Description("GIVEN: Etant donné un lancé de dés," +
                      "WHEN: lorsque je tombe sur la face 5" +
+                     "THEN: je divise mes CD par deux")]
+        public void Test_WithADiceValueEqualsToFive_ReturnVoidAndPlayerCDAreDividedByTwo()
+        {
+            //Arrange
+            GameManager gameManager = new GameManager();
+            Player player = new Player("Joueur 1");
+
+            //Act
+            gameManager.RollConsequences(player, 5);
+            //Assert 
+            Assert.AreEqual(500, player.CryptoDevise);
+        }
+        
+        [TestMethod]
+        [Description("GIVEN: Etant donné un lancé de dés," +
+                     "WHEN: lorsque je tombe sur la face 6" +
                      "THEN: rien ne se passe")]
         public void Test_WithADiceValueEqualsToSix_ReturnVoidAndNothingHappened()
         {
             //Arrange
             GameManager gameManager = new GameManager();
-            Player player = new Player();
+            Player player = new Player("Joueur 1");
 
             //Act
             gameManager.RollConsequences(player, 6);
@@ -107,11 +125,29 @@ namespace SoloPolyTest
         {
             //Arrange
             GameManager gameManager = new GameManager();
-            Player player = new Player();
+            Player player = new Player("Joueur 1");
 
             //Act & Assert
             gameManager.RollConsequences(player, 0);  
         }
+        
+        [TestMethod]
+        public void Test_WriteLine()
+        {
+            //Arrange 
+            var message = "Je suis un message";
+            OutputConsole consoleDeSortie = new OutputConsole();
+            var stringWriter = new StringWriter();
+            Console.SetOut(stringWriter);
+            
+            //Act
+            consoleDeSortie.WriteLine(message);
+            
+            //Assert
+            var output = stringWriter.ToString();
+            Assert.AreEqual("Je suis un message", output.Trim());
+        }
+        
         
     }
 }

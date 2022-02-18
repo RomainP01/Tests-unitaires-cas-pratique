@@ -3,12 +3,12 @@
     public class Player
     {
         private string _pseudo;
-        private int _cryptoDevise = 1000;
+        public int CryptoDevise { get; set; } = 1000;
 
-        public int CryptoDevise
+        public Player(string pseudo)
         {
-            get => _cryptoDevise;
-            set => _cryptoDevise = value;
+            _pseudo = pseudo;
         }
+        
     }
 }

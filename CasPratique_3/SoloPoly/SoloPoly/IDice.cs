@@ -2,9 +2,12 @@
 
 namespace SoloPoly
 {
-    public class Dice
+    public interface IDice{
+        int Roll();
+    }
+    public class Dice: IDice
     {
-        private int[] _faces = new[] {1, 2, 3, 4, 5, 6};
+        private readonly int[] _faces = new[] {1, 2, 3, 4, 5, 6};
 
         public int[] Faces => _faces;
         public int Roll()
@@ -14,4 +17,6 @@ namespace SoloPoly
             return _faces[roll-1];
         }
     }
+
+    
 }
